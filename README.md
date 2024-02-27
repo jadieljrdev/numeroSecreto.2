@@ -1,5 +1,4 @@
-![Front-end-Lógica de programação_ explora funções listas](https://github.com/jadieljrdev/numeroSecreto.2/assets/136523407/7166b1e4-9367-4c5c-b9fe-867ad0ebdbaf)
-
+![Front-end-Lógica de programação_ explora funções e listas](https://github.com/jadieljrdev/numeroSecreto.2/assets/136523407/f814aac1-a0bb-4572-bb42-a926500676ff)
 
 # Alura Jogo Secreto.2
 
